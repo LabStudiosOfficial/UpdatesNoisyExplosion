@@ -1,5 +1,5 @@
 <Version: 0.91>
-\data\Map024.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map024.json
-\img\SumRndmDde\preload\prenoise.png https://i.imgur.com/nol88cK.png
+/data/Map024.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map024.json
+/img/SumRndmDde/preload/prenoise.png https://i.imgur.com/nol88cK.png
 package.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/package.json
 <End of Version>
