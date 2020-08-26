@@ -1,4 +1,4 @@
-<Version: 1.00>
+<Version: 1.01>
 /data/Map024.json https://file.io/oQAI7hUMcKqW
 /img/SumRndmDde/preload/prenoise.png https://i.imgur.com/nol88cK.png
 package.json https://file.io/dMGRXdRSz1dw
