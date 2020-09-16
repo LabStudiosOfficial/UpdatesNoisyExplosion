@@ -1,5 +1,11 @@
-<Version: 0.91>
+<Version: 1.02>
+/data/Map042.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map042.json
+/data/Map040.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map040.json
+/data/Map037.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map037.json
 /data/Map024.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map024.json
-/img/SumRndmDde/preload/prenoise.png https://i.imgur.com/nol88cK.png
+/data/Items.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Items.json
+/data/Enemies.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Enemies.json
+/data/Classes.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Classes.json
+/img/SumRndmDde/preload/prenoise.png https://i.imgur.com/A9eGrs6.png
 package.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/package.json
 <End of Version>
