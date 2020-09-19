@@ -9,3 +9,13 @@
 /img/SumRndmDde/preload/prenoise.png https://i.imgur.com/A9eGrs6.png
 package.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/package.json
 <End of Version>
+
+<Version: 1.03>
+/data/Map049.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map049.json
+/data/Map034.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map034.json
+/data/Map032.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map032.json
+/data/Map039.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Map039.json
+/data/Tilesets.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/Tilesets.json
+package.json https://raw.githubusercontent.com/LabStudiosOfficial/UpdatesNoisyExplosion/master/package.json
+/img/SumRndmDde/preload/prenoise.png https://i.imgur.com/G8Avwpr.png
+<End of Version>
